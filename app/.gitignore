@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# dotenv
+.env
+
+# Docker
+*.log
+*.pid
+*.sock
+*.db
+*.pid
+*.gz
+*.bak
+
+# Alembic
+alembic/versions/*.pyc
+
+# VS Code
+.vscode/
